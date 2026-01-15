@@ -14,8 +14,9 @@ elif num > 1:
             flag = True
             # break out of loop
             break
- # check if flag is True
+ # check if flag is True that means 
     if flag:
         print(num, "is not a prime number")
     else:
-        print(num, "is a prime number")
+        print(num, "is a prime number") #ffeeee
+        
